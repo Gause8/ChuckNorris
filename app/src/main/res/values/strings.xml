@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ChuckNorris</string>
+    <string name="single_joke">single joke</string>
+    <string name="named_joke">named joke</string>
+    <string name="endless_joke">endless joke</string>
+    <string name="et_hint_first_name">First name</string>
+    <string name="btn_text_give_me_my_joke">give me my joke</string>
+    <string name="et_hint_last_name">Last name</string>
+</resources>
